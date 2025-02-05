@@ -1,6 +1,7 @@
 ![ ](https://github.com/HimanshuSharma123-a/US-Sales-Data-Analysis-EXCEL-/blob/main/US.png)
 
 # US Sales Data Analysis (Excel)
+Complete Excel Project
 
 A client has shared a sales dataset and seeks insights, including sales trends over time, state-wise sales comparison, monthly sales analysis, identifying top-profit customers, and evaluating product category performance.
 
