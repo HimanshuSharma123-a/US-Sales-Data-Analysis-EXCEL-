@@ -24,7 +24,7 @@ HimanshuSharma123-a
 A client has provided their sales dataset and requested insights from the data, focusing on several factors such as changes in sales orders over the years, a comparison of sales data across different states, monthly sales volume analysis, identification of top-profit-generating customers, and an evaluation of the performance of various product categories.
 
 ## Data Source
-- US Store Sales Dataset
+- [US Store Sales Dataset](https://www.kaggle.com/datasets/saadharoon27/us-store-sales-dataset)
 
 ## Data Overview
 
