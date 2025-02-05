@@ -43,8 +43,7 @@ A client has provided their sales dataset and requested insights from the data, 
 - Exploratory Data Analysis (EDA)
 
 ## Quick Glance At The Dashboard
-![Dashboard Image](relative/path/to/your/image.png) <!-- Insert the link to your dashboard image here -->
-
+![Dashboard Image](https://github.com/HimanshuSharma123-a/US-Sales-Data-Analysis-EXCEL-/blob/main/Glance.png) <!-- Insert the link to your dashboard image here -->
 ## Data Cleaning and Manipulation
 
 To create efficient pivot tables and dashboards with the provided data, the initial step involved converting the data into a structured table named ‘SalesData’ using the "create table" option. This transformation enhances data organization, making it more conducive for effective analysis and visualization.
