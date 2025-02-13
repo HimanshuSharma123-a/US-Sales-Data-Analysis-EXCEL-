@@ -40,8 +40,6 @@ A client has provided their sales dataset and requested insights from the data, 
 | Quantity       | Number of quantities the customer ordered of that product                  |
 | Profit         | How much the firm made in that transaction                                 |
 
-## Method
-- Exploratory Data Analysis (EDA)
 
 ## Quick Glance At The Dashboard
 ![Dashboard Image](https://github.com/HimanshuSharma123-a/US-Sales-Data-Analysis-EXCEL-/blob/main/Glance.png) <!-- Insert the link to your dashboard image here -->
